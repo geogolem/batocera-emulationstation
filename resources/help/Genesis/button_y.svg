@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="10 10 110 110"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="button-y.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70832)">
+    <path
+       id="path21106"
+       style="fill:#FFFFFF;fill-opacity:1;stroke-width:3.65171;stroke-dashoffset:4.49997"
+       d="M 250,61.402344 A 188.59697,188.59697 0 0 0 61.402344,250 188.59697,188.59697 0 0 0 250,438.59766 188.59697,188.59697 0 0 0 438.59766,250 188.59697,188.59697 0 0 0 250,61.402344 Z M 143.33398,162 h 57.59961 L 250,230 299.06641,162 h 57.59961 l -80,110.66602 V 338 h -53.33204 v -65.33398 z"
+       transform="matrix(0.26458333,0,0,0.26458333,0,164.70832)" />
+  </g>
+</svg>

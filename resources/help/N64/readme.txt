@@ -1,0 +1,1 @@
+https://www.ssbwiki.com/Category:Button_icons_%28N64%29

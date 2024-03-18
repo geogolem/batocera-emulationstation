@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="10 10 110 110"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="button-c.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70832)">
+    <path
+       id="path280"
+       style="fill:#FFFFFF;fill-opacity:1;stroke-width:3.65171;stroke-dashoffset:4.49997"
+       d="M 66.145833 180.95436 C 38.586925 180.95426 16.245937 203.29525 16.246037 230.85415 C 16.245936 258.41307 38.586924 280.75405 66.145833 280.75395 C 93.704743 280.75405 116.04573 258.41307 116.04563 230.85415 C 116.04573 203.29524 93.704743 180.95426 66.145833 180.95436 z M 55.914933 207.57082 L 89.076733 207.57082 L 89.076733 216.03749 L 60.501217 216.03749 C 58.878428 216.03749 58.0316 216.67251 58.0316 218.01308 L 58.0316 243.69575 C 58.0316 245.03631 58.878428 245.67134 60.501217 245.67134 L 89.076733 245.67134 L 89.076733 254.138 L 55.914933 254.138 C 47.942102 254.138 43.920317 250.96281 43.920317 244.54221 L 43.920317 217.16662 C 43.920317 210.74602 47.942102 207.57082 55.914933 207.57082 z " />
+  </g>
+</svg>
